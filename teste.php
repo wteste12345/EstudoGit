@@ -1,5 +1,5 @@
 <?php
 
-    echo 'Teste de versionamento';
+    echo 'Teste de versionamento do código atual ...';
 
 ?>
